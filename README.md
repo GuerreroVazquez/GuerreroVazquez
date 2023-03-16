@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 C:
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuerreroVazquez&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katthyren&show_icons=true&theme=transparent)
 
 
