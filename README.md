@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 C:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guerrerovazquez)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
